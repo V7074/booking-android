@@ -1,4 +1,4 @@
-package com.example.booking.model
+package com.etu.booking.model
 
 data class CityModel(
     val name: String,

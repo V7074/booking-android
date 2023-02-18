@@ -1,12 +1,10 @@
-package com.example.booking.view
+package com.etu.booking.view
 
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.setValue
 import androidx.lifecycle.ViewModel
-import com.example.booking.model.BookingSearchModel
-import org.jetbrains.annotations.NotNull
-import java.time.format.DateTimeFormatter
+import com.etu.booking.model.BookingSearchModel
 
 class BookingSearchViewModel : ViewModel()  {
 

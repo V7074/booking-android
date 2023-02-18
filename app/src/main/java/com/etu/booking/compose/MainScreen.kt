@@ -1,4 +1,4 @@
-package com.example.booking.compose
+package com.etu.booking.compose
 
 import android.app.DatePickerDialog
 import android.content.Context
@@ -26,9 +26,9 @@ import androidx.compose.ui.text.input.KeyboardType
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.lifecycle.viewmodel.compose.viewModel
-import com.example.booking.SearchScreenActivity
-import com.example.booking.model.CityModel
-import com.example.booking.view.BookingSearchViewModel
+import com.etu.booking.SearchScreenActivity
+import com.etu.booking.model.CityModel
+import com.etu.booking.view.BookingSearchViewModel
 import java.time.LocalDate
 import java.time.format.DateTimeFormatter
 
